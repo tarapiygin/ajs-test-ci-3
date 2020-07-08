@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/j9kc97bb5o93idkl?svg=true)](https://ci.appveyor.com/project/tarapiygin/ajs-test-ci-3)
